@@ -9,5 +9,10 @@
 * [Curl Docs](https://curl.haxx.se/docs/)
 * [Bluemix Dashboards](https://console.ng.bluemix.net/)
 * [Watson Visual Recognition Docs](https://www.ibm.com/watson/developercloud/doc/visual-recognition/index.html)
+
+
+#### Other
+
+
 * [Node Docs](https://nodejs.org/api/)
 * [JS Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
