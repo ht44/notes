@@ -1,8 +1,9 @@
 ## Links
 
-* [Cloudant Docs]             (https://console.ng.bluemix.net/docs/services/Cloudant/basics/index.html#cloudant-basics)
-  * [API Docs]                (https://console.ng.bluemix.net/docs/services/Cloudant/api/index.html#api-reference)
-  * [Node Library]            (https://www.npmjs.com/package/cloudant)
+* [Cloudant Docs](https://console.ng.bluemix.net/docs/services/Cloudant/basics/index.html#cloudant-basics)
+  * [API Docs](https://console.ng.bluemix.net/docs/services/Cloudant/api/index.html#api-reference)
+  * [Node Library](https://www.npmjs.com/package/cloudant)
+    * [Library API](https://www.npmjs.com/package/cloudant#api-reference)
 * [OpenStack Docs](https://docs.openstack.org/)
   * [API Docs](https://developer.openstack.org/api-ref/object-storage/)
 * [CouchDB Docs](http://docs.couchdb.org/en/2.0.0/)
