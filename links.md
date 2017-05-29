@@ -1,5 +1,9 @@
 ## Links
 
+#### Angular
+
+* [Angular 1.x Docs]('https://docs.angularjs.org/guide')
+
 #### Database
 
 * [Cloudant Docs](https://console.ng.bluemix.net/docs/services/Cloudant/basics/index.html#cloudant-basics)
