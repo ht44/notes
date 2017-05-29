@@ -2,7 +2,9 @@
 
 #### Angular
 
-* [Angular 1.x Docs]('https://docs.angularjs.org/guide')
+* [Angular 1.x Guid](https://docs.angularjs.org/guide)
+* [Angular 1.x API](https://docs.angularjs.org/api)
+
 
 #### Database
 
